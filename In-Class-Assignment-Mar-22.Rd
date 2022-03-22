@@ -1,0 +1,5 @@
+library(oligo)
+setwd("/Users/pawar/Desktop/")
+celfiles <- list.files("/Users/pawar/Desktop/Files", full = TRUE)
+rawData <- read.celfiles(celfiles)
+boxplot(rawData)
