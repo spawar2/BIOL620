@@ -18,7 +18,7 @@ https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.
 [Github:](https://github.com/spawar2/BTEC-620-Spring-2023)
 Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, global & local alignment): https://youtu.be/Lx1jkr3UKwA
 BIOL620 (4 credit) Spring 2023 (2 students) *Graduate Class (Masters & Ph.D. Level). https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
-https://www.claflin.edu/
+https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
 
 
