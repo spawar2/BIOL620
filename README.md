@@ -1,7 +1,7 @@
 Learning Objectives [# BIOL620 4 Credits Fundamentals of Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol620-1)
 Bioinformatics (topics including sequence alignment algorithms, scoring matrices, microarray analysis, phylogenetic analysis, bootstrapping, tree building, secondary & tertiary structure prediction, homology modeling, and protein folding)], visualization: heat maps, volcano plots, pie charts, Sequence alignments (Margaret Dayhoff, PAM, blossom scoring matrices, global & local alignment). Gene Expression Omnibus (GEO) datasets mining, Microarray data analysis: Read, Pre-processing/Normalization (Affy, Oligo, Limma-RMA, Quantile, Mas5.0), Visualization: Heat maps, box plots, Fold change expression analysis, Gene Set Enrichment Analysis (GSEA), Pathways and protein downstream interactome analysis.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV).
-[R: affy, rBLAST, ape, phangorn, phytools, geiger]
+[R: affy, rBLAST, ape, phangorn, phytools, geiger].
 [Bioinformatics:](https://youtu.be/G6Xh9QJQrjA)
 [Bioinformatics:](https://youtu.be/UlU8GlZP7GU)
 [Bioinformatics:](https://youtu.be/YVMVhcDCMY8)
@@ -23,5 +23,5 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 
 
 Feb 15.Rd, Feb 8.Rd, Feb 22.Rd, Mar-1.Rd, Mar-8.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
-selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, CreateSeuratObject, FeatureScatter, NormalizeData, reduce.dimensions, FindNeighbors, FindClusters, RunTSNE, RunUMAP, use.phate, get.species.cells, make_analysis_from_table, plotCurveHeatmaps, plotPseudoTime, runPseudoTimeDGE, runSlignshot, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet)
+selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, CreateSeuratObject, FeatureScatter, NormalizeData, reduce.dimensions, FindNeighbors, FindClusters, RunTSNE, RunUMAP, use.phate, get.species.cells, make_analysis_from_table, plotCurveHeatmaps, plotPseudoTime, runPseudoTimeDGE, runSlignshot, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
 
