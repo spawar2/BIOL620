@@ -23,5 +23,13 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 
 
 Feb 15.Rd, Feb 8.Rd, Feb 22.Rd, Mar-1.Rd, Mar-8.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
-selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, CreateSeuratObject, FeatureScatter, NormalizeData, reduce.dimensions, FindNeighbors, FindClusters, RunTSNE, RunUMAP, use.phate, get.species.cells, make_analysis_from_table, plotCurveHeatmaps, plotPseudoTime, runPseudoTimeDGE, runSlignshot, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
+selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, CreateSeuratObject, FeatureScatter, NormalizeData, reduce.dimensions, FindNeighbors, FindClusters, RunTSNE, RunUMAP, use.phate, get.species.cells, make_analysis_from_table, plotCurveHeatmaps, plotPseudoTime, runPseudoTimeDGE, runSlignshot, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet). Affymetrix raw data distribution plot: Affy-Read.png
+Command prompt: CMD.png
+Fold-Change-Analysis-Microarray.png
+Nomalized-Plot.pdf
+Phylogenetic-tree.pdf
+Raw-data.pdf
+Tree plot: unrooted.pdf
+Phylotree.pdf, Rawplot.pdf
+Rplot-Normalized.pdf, boxplot.pdf, Rplot-normalized.pdf, Rplot-Mar 22.pdf, Rplot-Rawplot.pdf
 
