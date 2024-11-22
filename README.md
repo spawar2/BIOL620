@@ -11,7 +11,7 @@ Bioinformatics (topics including sequence alignment algorithms, scoring matrice
 [Bioinformatics:](https://youtu.be/kIxlNUeG-38)
 [Bioinformatics:](https://youtu.be/bmWCnSMhUDk)
 [Bioinformatics:](https://youtu.be/7UOA1hC2V5k)
-
+[Semester class review:](https://youtu.be/Pju8ecWWRAw)
 [Phylogenetic Analysis:](https://youtu.be/IMIP4la-K84)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 [Link](https://youtu.be/UEsXMfE_7Rg)
