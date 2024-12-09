@@ -1,6 +1,6 @@
 Learning Objectives [# BIOL620 4 Credits Fundamentals of Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol620-1)
 Bioinformatics (topics including sequence alignment algorithms, scoring matrices, microarray analysis, phylogenetic analysis, bootstrapping, tree plot rooted, unrooted tree structure, building, secondary & tertiary structure prediction, homology modeling, and protein folding)], visualization: heat maps, volcano plots, pie charts, National Center for Biotechnology Information (NCBI)  Basic Local Alignment Search Tool (BLAST) techniques: https://youtu.be/dgehxC9tJVc Sequence alignments (Margaret Dayhoff, PAM, blossom scoring matrices, global & local alignment). Gene Expression Omnibus (GEO) datasets mining, Microarray data analysis: Read, Pre-processing/Normalization (Affy, Oligo, Limma-RMA, Quantile, Mas5.0), Visualization: Heat maps, box plots, Fold change expression analysis, Gene Set Enrichment Analysis (GSEA), Pathways and protein downstream interactome analysis. File formats (Fasta, etc.).
-[Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV).
+[Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV). December, 9, 2024.
 [R: affy, rBLAST, ape, phangorn, phytools, geiger].
 [Bioinformatics:](https://youtu.be/G6Xh9QJQrjA)
 [Bioinformatics:](https://youtu.be/UlU8GlZP7GU)
