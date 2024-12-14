@@ -20,6 +20,7 @@ Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, glo
 BIOL620 (4 credit) Spring 2023 (2 students) *Graduate Class (Masters & Ph.D. Level). https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
+![download](https://github.com/user-attachments/assets/1b7efa1c-8c66-40a6-8a04-0ff2d6f19511)
 
 
 Feb 15.Rd, Feb 8.Rd, Feb 22.Rd, Mar-1.Rd, Mar-8.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
