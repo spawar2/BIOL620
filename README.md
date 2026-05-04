@@ -40,7 +40,7 @@ https://www.java.com/
 https://www.php.net/
 https://www.mysql.com/
 https://www.mathworks.com/products/matlab.html
-
+https://www.claflin.edu/DivisionofAcademicAffairs/schools-departments/school-of-natural-sciences-and-mathematics/department-of-biology/bioinformatics
 https://www.r-project.org/
 https://www.bioconductor.org/packages/3.21/BiocViews.html#___Software
 https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html
